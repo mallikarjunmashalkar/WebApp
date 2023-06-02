@@ -1,0 +1,101 @@
+.navBar1{
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.pcolor{
+  color: rgb(133, 167, 247);
+}
+.pcolor1{
+  color: rgba(41, 39, 39, 0.685);
+}
+.mainHeader{
+  padding-right: 50px;
+}
+.main{
+  background-color: #cde4e4;
+}
+.img1{
+
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+} 
+.img1 img{
+  margin-left: 17.5rem;
+  width: 1250px;
+  border-top-left-radius: 800px;
+  border-bottom-left-radius: 200px;
+  border-bottom-right-radius: 250px;
+}
+.text{
+  position: absolute;
+  text-align: start;
+  left: 5rem;
+  top: 10rem;
+}
+.text1{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.text2{
+  padding-left: 1rem;
+  background-color: aliceblue;
+}
+.headerbutton{
+  padding-left: 1.5rem;
+}
+.headerbutton button{
+  width: 160px;
+  background-color: #2d7b7b;
+  color: aliceblue;
+  border-style: none;
+  height: 2rem;
+}
+.page2{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 0 80px;
+}
+.card{
+  background-color: #2d7b7b;
+  height: 658px;
+  width: 50%;
+}
+.card img{
+  position: absolute;
+  top: 8.5rem;
+  right: 12rem;
+}
+.page2text{
+  margin-top: 5rem;
+  text-align: start;
+}
+.page2text1{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 150px 0 0;
+  margin-bottom: 3rem;
+}
+.page2text1 h4{
+  margin-top: 9px;
+}
+.page2text1 h2{
+  padding-top: 2px;
+  border-bottom: 4px solid black;
+  color: #45b8b8;
+}
+.page3text1{
+  display: flex;
+  justify-content: center;
+}
+.page3text2 p{
+  top: 11rem;
+}
+.imagepc{
+  position: absolute;
+  top: 108rem;
+  left: 571px;
+}
